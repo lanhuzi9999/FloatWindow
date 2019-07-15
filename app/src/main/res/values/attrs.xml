@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MarkView">
+        <attr name="rightangleEdgeLeft" format="dimension" />
+        <attr name="rightangleEdgeTop" format="dimension" />
+    </declare-styleable>
+</resources>

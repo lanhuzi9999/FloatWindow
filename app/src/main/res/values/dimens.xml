@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="float_window_width">88dp</dimen>
+    <dimen name="float_window_height">74dp</dimen>
+</resources>
